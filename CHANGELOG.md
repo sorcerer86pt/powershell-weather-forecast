@@ -1,3 +1,10 @@
+## 1.0.0 (2025-10-27)
+
+
+### ✨ Features
+
+* Added Ukrainian language ([8aa4d6e](https://github.com/sorcerer86pt/powershell-weather-forecast/commit/8aa4d6e4040a9ba2b9632a06b3265983d50bd237))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
@@ -38,4 +45,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Open-Meteo for weather data
 - OpenStreetMap Nominatim for geocoding
 - IP-API for IP-based location
-
