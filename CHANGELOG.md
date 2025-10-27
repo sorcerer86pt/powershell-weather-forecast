@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/sorcerer86pt/powershell-weather-forecast/compare/v1.0.0...v1.0.1) (2025-10-27)
+
+
+### 🐛 Bug Fixes
+
+* add missed supported language ukrainian ([1a3d241](https://github.com/sorcerer86pt/powershell-weather-forecast/commit/1a3d2410ff61ffa473982ccb2098ad0299885206))
+
 ## 1.0.0 (2025-10-27)
 
 
