@@ -1,0 +1,35 @@
+# PowerShell
+*.ps1xml
+*.psd1
+*.psm1_*
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Test results
+TestResults/
+*.trx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
