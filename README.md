@@ -215,6 +215,7 @@ pwsh ./WeatherForecast.ps1 -City "London"
 - 🇩🇪 German (`de`)
 - 🇮🇹 Italian (`it`)
 - 🇯🇵 Japanese (`ja`)
+- 🇺🇦 Ukrainian (`uk`)
 
 Want to add more? See [locales/README.md](locales/README.md)
 
