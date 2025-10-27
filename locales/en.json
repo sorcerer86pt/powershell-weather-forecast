@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "language_name": "English",
+  "unknown_text": "Unknown",
+  "weather_codes": {
+    "0": "Clear",
+    "1": "M.Clear",
+    "2": "P.Cloudy",
+    "3": "Overcast",
+    "45": "Fog",
+    "48": "Fog",
+    "51": "Lt.Drizzle",
+    "53": "Drizzle",
+    "55": "Hvy.Drizzle",
+    "56": "Frz.Drizzle",
+    "57": "Frz.Drizzle",
+    "61": "Lt.Rain",
+    "63": "Rain",
+    "65": "Hvy.Rain",
+    "66": "Frz.Rain",
+    "67": "Frz.Rain",
+    "71": "Lt.Snow",
+    "73": "Snow",
+    "75": "Hvy.Snow",
+    "77": "Snow Grains",
+    "80": "Lt.Showers",
+    "81": "Showers",
+    "82": "Hvy.Showers",
+    "85": "Snow Showers",
+    "86": "Snow Showers",
+    "95": "T-Storm",
+    "96": "T-Storm+Hail",
+    "99": "T-Storm+Hail"
+  }
+}
+

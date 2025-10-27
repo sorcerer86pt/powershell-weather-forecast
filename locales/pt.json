@@ -1,0 +1,36 @@
+{
+  "language": "pt",
+  "language_name": "Português",
+  "unknown_text": "Desconhecido",
+  "weather_codes": {
+    "0": "Limpo",
+    "1": "Pouco Nub.",
+    "2": "Parc.Nub.",
+    "3": "Nublado",
+    "45": "Nevoeiro",
+    "48": "Nevoeiro",
+    "51": "Chuvisco Leve",
+    "53": "Chuvisco",
+    "55": "Chuvisco Forte",
+    "56": "Chuvisco Gel.",
+    "57": "Chuvisco Gel.",
+    "61": "Chuva Fraca",
+    "63": "Chuva",
+    "65": "Chuva Forte",
+    "66": "Chuva Gel.",
+    "67": "Chuva Gel.",
+    "71": "Neve Fraca",
+    "73": "Neve",
+    "75": "Neve Forte",
+    "77": "Grãos Neve",
+    "80": "Aguaceiros",
+    "81": "Aguaceiros",
+    "82": "Aguac.Fortes",
+    "85": "Neve",
+    "86": "Neve",
+    "95": "Trovoada",
+    "96": "Trov.+Granizo",
+    "99": "Trov.+Granizo"
+  }
+}
+

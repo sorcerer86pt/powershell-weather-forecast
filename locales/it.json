@@ -1,0 +1,36 @@
+{
+  "language": "it",
+  "language_name": "Italiano",
+  "unknown_text": "Sconosciuto",
+  "weather_codes": {
+    "0": "Sereno",
+    "1": "Poco Nuv.",
+    "2": "Parz.Nuv.",
+    "3": "Coperto",
+    "45": "Nebbia",
+    "48": "Nebbia",
+    "51": "Piogger.Lieve",
+    "53": "Piogger.",
+    "55": "Piogger.Forte",
+    "56": "Piogger.Gel.",
+    "57": "Piogger.Gel.",
+    "61": "Pioggia Lieve",
+    "63": "Pioggia",
+    "65": "Pioggia Forte",
+    "66": "Pioggia Gel.",
+    "67": "Pioggia Gel.",
+    "71": "Neve Lieve",
+    "73": "Neve",
+    "75": "Neve Forte",
+    "77": "Grani Neve",
+    "80": "Rovesci",
+    "81": "Rovesci",
+    "82": "Rovesci Forti",
+    "85": "Rovesci Neve",
+    "86": "Rovesci Neve",
+    "95": "Temporale",
+    "96": "Temp.+Grandine",
+    "99": "Temp.+Grandine"
+  }
+}
+

@@ -1,0 +1,36 @@
+{
+  "language": "es",
+  "language_name": "Español",
+  "unknown_text": "Desconocido",
+  "weather_codes": {
+    "0": "Despejado",
+    "1": "Poco Nub.",
+    "2": "Parc.Nub.",
+    "3": "Nublado",
+    "45": "Niebla",
+    "48": "Niebla",
+    "51": "Llovizna Leve",
+    "53": "Llovizna",
+    "55": "Llovizna Fuerte",
+    "56": "Llovizna Gel.",
+    "57": "Llovizna Gel.",
+    "61": "Lluvia Leve",
+    "63": "Lluvia",
+    "65": "Lluvia Fuerte",
+    "66": "Lluvia Gel.",
+    "67": "Lluvia Gel.",
+    "71": "Nieve Leve",
+    "73": "Nieve",
+    "75": "Nieve Fuerte",
+    "77": "Granos Nieve",
+    "80": "Chubascos",
+    "81": "Chubascos",
+    "82": "Chubascos F.",
+    "85": "Chubascos Nieve",
+    "86": "Chubascos Nieve",
+    "95": "Tormenta",
+    "96": "Torm.+Granizo",
+    "99": "Torm.+Granizo"
+  }
+}
+

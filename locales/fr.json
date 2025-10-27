@@ -1,0 +1,36 @@
+{
+  "language": "fr",
+  "language_name": "Français",
+  "unknown_text": "Inconnu",
+  "weather_codes": {
+    "0": "Clair",
+    "1": "Peu Nuag.",
+    "2": "Part.Nuag.",
+    "3": "Couvert",
+    "45": "Brouillard",
+    "48": "Brouillard",
+    "51": "Bruine Lég.",
+    "53": "Bruine",
+    "55": "Bruine Forte",
+    "56": "Bruine Gel.",
+    "57": "Bruine Gel.",
+    "61": "Pluie Lég.",
+    "63": "Pluie",
+    "65": "Pluie Forte",
+    "66": "Pluie Gel.",
+    "67": "Pluie Gel.",
+    "71": "Neige Lég.",
+    "73": "Neige",
+    "75": "Neige Forte",
+    "77": "Grains Neige",
+    "80": "Averses",
+    "81": "Averses",
+    "82": "Averses Fort.",
+    "85": "Averses Neige",
+    "86": "Averses Neige",
+    "95": "Orage",
+    "96": "Orage+Grêle",
+    "99": "Orage+Grêle"
+  }
+}
+

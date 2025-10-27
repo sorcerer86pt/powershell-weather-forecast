@@ -1,0 +1,36 @@
+{
+  "language": "de",
+  "language_name": "Deutsch",
+  "unknown_text": "Unbekannt",
+  "weather_codes": {
+    "0": "Klar",
+    "1": "Wenig Bew.",
+    "2": "Teil.Bew.",
+    "3": "Bedeckt",
+    "45": "Nebel",
+    "48": "Nebel",
+    "51": "Leicht Nieselr.",
+    "53": "Nieselr.",
+    "55": "Stark Nieselr.",
+    "56": "Gefrier.Nieselr.",
+    "57": "Gefrier.Nieselr.",
+    "61": "Leicht Regen",
+    "63": "Regen",
+    "65": "Stark Regen",
+    "66": "Gefrier.Regen",
+    "67": "Gefrier.Regen",
+    "71": "Leicht Schnee",
+    "73": "Schnee",
+    "75": "Stark Schnee",
+    "77": "Schneekörner",
+    "80": "Schauer",
+    "81": "Schauer",
+    "82": "Stark Schauer",
+    "85": "Schneeschauer",
+    "86": "Schneeschauer",
+    "95": "Gewitter",
+    "96": "Gewitter+Hagel",
+    "99": "Gewitter+Hagel"
+  }
+}
+
