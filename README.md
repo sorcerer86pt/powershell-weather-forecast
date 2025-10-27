@@ -1,5 +1,10 @@
 # PowerShell Weather Forecast
 
+[![Release](https://img.shields.io/github/v/release/sorcerer86pt/powershell-weather-forecast?label=Version&logo=github)](https://github.com/sorcerer86pt/powershell-weather-forecast/releases)
+[![License](https://img.shields.io/github/license/sorcerer86pt/powershell-weather-forecast)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-blue)](https://github.com/sorcerer86pt/powershell-weather-forecast)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B%20%7C%207%2B-blue?logo=powershell)](https://github.com/PowerShell/PowerShell)
+
 A modern, feature-rich **cross-platform** PowerShell script that displays a 7-day weather forecast with automatic location detection and multi-language support.
 
 ## Features
@@ -269,11 +274,45 @@ Last updated: 2025-10-27 14:23:45
 
 ## Contributing
 
-Contributions are welcome! You can help by:
+Contributions are welcome! This project uses **automatic semantic versioning** based on [Conventional Commits](https://www.conventionalcommits.org/).
 
-- Adding new language translations (see [locales/README.md](locales/README.md))
-- Reporting bugs or suggesting features
-- Improving the code or documentation
+### How to Contribute
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feat/amazing-feature`)
+3. Make your changes
+4. Commit using conventional commit format (see below)
+5. Push to your fork and create a Pull Request
+
+### Commit Message Format
+
+Use conventional commits for automatic versioning:
+
+- `feat:` - New feature (bumps **minor** version: 1.0.0 → 1.1.0)
+- `fix:` - Bug fix (bumps **patch** version: 1.0.0 → 1.0.1)
+- `docs:` - Documentation changes
+- `perf:` - Performance improvements
+- `refactor:` - Code refactoring
+- `BREAKING CHANGE:` - Breaking changes (bumps **major** version: 1.0.0 → 2.0.0)
+
+**Examples:**
+```bash
+feat: add support for hourly forecasts
+fix: resolve location detection on WSL
+docs: update installation instructions
+feat!: redesign command line parameters
+
+BREAKING CHANGE: Parameter names have changed
+```
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+### Ways to Contribute
+
+- 🌍 Adding new language translations (see [locales/README.md](locales/README.md))
+- 🐛 Reporting bugs or suggesting features
+- 📚 Improving the code or documentation
+- ✅ Adding tests and improving cross-platform support
 
 ## License
 
@@ -318,8 +357,10 @@ This project is open source and available under the MIT License.
 
 ## Version History
 
-- **v3.1** - Added cross-platform support (Linux, macOS), automatic OS detection
-- **v3.0** - Added locale system, improved error handling, better UI
-- **v2.0** - Added parameter support, Fahrenheit option, multiple location selection
-- **v1.0** - Initial release with basic functionality
+See [CHANGELOG.md](CHANGELOG.md) for detailed version history.
+
+This project follows [Semantic Versioning](https://semver.org/):
+- **Major** version (X.0.0): Breaking changes
+- **Minor** version (0.X.0): New features, backwards compatible
+- **Patch** version (0.0.X): Bug fixes and improvements
 
